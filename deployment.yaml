@@ -25,8 +25,8 @@ spec:
           value: "caravan"
           #value: "edu1234"
         - name: SPRING_DATASOURCE_URL
-          #value: "jdbc:mariadb://helm-db-mariadb.edu31.svc.cluster.local:3306/edu"
+          value: "jdbc:mariadb://helm-db-mariadb.edu31.svc.cluster.local:3306/edu"
           #value: "jdbc:mariadb://my-release-mariadb:3306/edu"
-          value: "jdbc:mariadb://211.34.231.84:32065/edu"
+          #value: "jdbc:mariadb://211.34.231.84:32065/edu"
         ports:
         - containerPort: 8080
