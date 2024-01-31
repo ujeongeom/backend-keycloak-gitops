@@ -4,5 +4,5 @@ resources:
 - deployment.yaml
 - service.yaml
 images:
-- name: ghcr.io/shclub/edu12-backend
-  newTag: "20230328003741"
+- name: ghcr.io/shclub/springboot_crud_security
+  newTag: "v1"
