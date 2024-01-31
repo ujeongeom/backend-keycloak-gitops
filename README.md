@@ -1,2 +1,2 @@
-# edu12-gitops
+# backend-gitops
 gitops sample
