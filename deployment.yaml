@@ -21,4 +21,4 @@ spec:
           - name: SPRING_PROFILES_ACTIVE
             value: "local"
         ports:
-        - containerPort: 8080
+        - containerPort: 9080
